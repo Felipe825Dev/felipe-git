@@ -1,0 +1,48 @@
+[33mcommit 25177d595a869b4091a810e1876989a0708751d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 0128976 c129f9f
+Author: Felipe de Sousa <felipe825dev@gmail.com>
+Date:   Mon Feb 16 20:49:32 2026 -0300
+
+    Merge branch 'titulo'
+
+[33mcommit 012897601e2b76948c6e02abcc905f4a2a170f94[m
+Author: Felipe de Sousa <felipe825dev@gmail.com>
+Date:   Mon Feb 16 20:48:47 2026 -0300
+
+    corrigindo nome do curso de docker
+
+[33mcommit c129f9f62bdcde3754451a88d83482bc25682dae[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Felipe de Sousa <felipe825dev@gmail.com>
+Date:   Mon Feb 16 20:32:10 2026 -0300
+
+    Lista no início do título
+
+[33mcommit af800ddbad9982e4893599118188181ca3dee183[m
+Author: Felipe de Sousa <felipe825dev@gmail.com>
+Date:   Mon Feb 16 20:30:23 2026 -0300
+
+    Alternado o título da página
+
+[33mcommit 7558966c2d50cba8272ef7fbab2eb80a4752a3c5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Felipe <felipesousa0311@gmail.com>
+Date:   Sun Feb 15 20:23:40 2026 -0300
+
+    renomeando curso de integração contínua
+
+[33mcommit 24ece247666e2272868327bd886086e1e384b528[m
+Author: Felipe de Sousa <felipesousa0311@gmail.com>
+Date:   Sun Feb 15 19:27:14 2026 -0300
+
+    adicionando .gitignore
+
+[33mcommit f5fb4bd70caecec40720aad460efde32520e5f61[m
+Author: Felipe <felipesousa0311@gmail.com>
+Date:   Sun Feb 15 19:13:13 2026 -0300
+
+    acento adicionado no curso de integração contínua
+
+[33mcommit 0c8234848f9545c0e189c3c4c79c27f598e4fa85[m
+Author: Felipe <felipesousa0311@gmail.com>
+Date:   Sun Feb 15 19:10:29 2026 -0300
+
+    criando arquivo index.html comlista de cursos
